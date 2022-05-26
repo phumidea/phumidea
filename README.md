@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @phumidea
 - 👀 I’m interested in data engineering
 - 🌱 I’m currently learning python/cloud/ETL/data warehousing
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on anyone. You can provoke me for more information
 - 📫 How to reach me https://www.linkedin.com/in/phum-lertritmahachai-242a9120a/
 
 <!---
